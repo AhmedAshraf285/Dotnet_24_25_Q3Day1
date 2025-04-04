@@ -2,3 +2,11 @@ div{
     background-color: orang;
     padding: 20%;
 }
+P{
+    text-align: center;
+    text-shadow: .5cap;
+}
+p{
+    background-color: chocolate;
+}
+ 
